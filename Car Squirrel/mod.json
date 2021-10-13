@@ -1,0 +1,18 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "Car Squirrel",
+    "id": "walkspeed",
+    "author": "Karso04",
+    "version": "0.1.0",
+    "packageId": "com.loudshirtgames.flyingsquirrelchase",
+    "packageVersion": "1.3",
+    "description": "Squirrel go vroom",
+    "coverImage": "cover.png",
+    "modFiles": [
+        "libwalkspeed.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_3_2_2.so"
+    ]
+}
