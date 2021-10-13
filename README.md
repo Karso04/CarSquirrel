@@ -4,7 +4,7 @@ Make your squirrel move like a car with the joystick!
 
 
 
-###### This mod is made for the game Flying Squirrel Chase which you can find on AppLab for free!
+###### This mod is for the game Flying Squirrel Chase which is on Oculus App Lab
 
 # Credits
 
