@@ -1,4 +1,4 @@
-# CarSquirrel
+# Car Squirrel
 
 Make your squirrel move like a car with the joystick!
 
